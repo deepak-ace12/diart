@@ -1,3 +1,5 @@
+torch==1.13.1
+-e git+https://github.com/hmmlearn/hmmlearn.git#egg=hmmlearn
 numpy
 matplotlib
 rx
@@ -6,10 +8,9 @@ sounddevice
 einops
 tqdm
 pandas
-torch
 torchvision
 torchaudio
-pyannote.audio==2.0.1
+pyannote.audio
 pyannote.core
 pyannote.database
 pyannote.metrics
