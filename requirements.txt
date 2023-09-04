@@ -9,7 +9,7 @@ pandas
 torch
 torchvision
 torchaudio
-pyannote.audio
+pyannote.audio==2.0.1
 pyannote.core
 pyannote.database
 pyannote.metrics
